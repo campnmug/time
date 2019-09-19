@@ -1,0 +1,6 @@
+# time
+Paper, code and data for my MWSUG 2019 paper
+Paper prepared for the MWSUG, Midwest SAS Users Group, Sept 30-Oct 1
+
+Abstract
+Business leaders as well as data analysts and data scientists need to have an understanding of the particularities of time series data. This paper reports on an introduction to time series as taught to students in a first business analytics course making use of data from FRED, the marvelous time series repository at the St. Louis Federal Bank. Students are cautioned not to run to advance techniques before stopping to fully explore the data and this approach is designed to instill a EDA mentality into the students while teaching them how to manipulate and characterize time series data in SAS® and thereby set the ground work for more advanced work in time-series econometrics, forecasting and predictive analytics. Also, instilled in the students is an appreciation of knowing the data generating process. SAS programming is taught through this approach focusing on SAS functions such as DIF and LAG, PROCS CORR, MEANS, TABULATE and SGPLOT. The paper concludes with a basic coverage of random walk and spurious correlation that can easily result in mistakes when one does not first investigate data stationarity.
